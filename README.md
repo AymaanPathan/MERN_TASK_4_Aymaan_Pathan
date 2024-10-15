@@ -1,8 +1,9 @@
 <h1>React Shared Input Component with Tailwind & React Hot Toast.</h1>
 
-<span> This project demonstrates how to create a reusable shared component in React that handles common input types (input, textarea, checkbox, and radio). It also includes form validation, notification handling with react-hot-toast, and styling with Tailwind CSS.</span>
+<h6> This project demonstrates how to create a reusable shared component in React that handles common input types (input, textarea, checkbox, and radio). It also includes form validation, notification handling with react-hot-toast, and styling with Tailwind CSS.</h6>
 
-## Live Link https://mern-task-4-aymaan-pathan.vercel.app/
+## Live Link 
+https://mern-task-4-aymaan-pathan.vercel.app/
 
 
 <img width="959" alt="2" src="https://github.com/user-attachments/assets/c3582cd1-cbbc-42b5-9d42-921fd18980fc">
@@ -11,22 +12,17 @@
 
 
 ## Features
-Reusable Input Component: A shared component that dynamically renders different input types (text, textarea, checkbox, radio).
+<h6>Reusable Input Component: A shared component that dynamically renders different input types (text, textarea, checkbox, radio).
 Tailwind CSS: Used for responsive and modern styling of the form and input elements.
 React Hot Toast: Provides notification upon successful form submission.
-State Management: Form data is handled using React's useState hook.
+State Management: Form data is handled using React's useState hook.</h6>
 
+## Technologies Used
+ <h6><li>React: For creating dynamic user interfaces.</li></h6>
 
-Getting Started
-Prerequisites
-Node.js: Ensure that you have Node.js installed.
+<h6><li>Tailwind CSS: For styling the tables and components.</li></h6>
 
-Technologies Used
-<li>React: For creating dynamic user interfaces.</li>
-
-<li>Tailwind CSS: For styling the tables and components.</li>
-
-<li>React Hot Toast: For notifications.</li>
+<h6><li>React Hot Toast: For notifications.</li></h6>
 
 ### Installation
 
