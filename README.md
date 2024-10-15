@@ -18,3 +18,46 @@ State Management: Form data is handled using React's useState hook.
 Getting Started
 Prerequisites
 Node.js: Ensure that you have Node.js installed.
+
+Technologies Used
+<li>React: For creating dynamic user interfaces.</li>
+
+<li>Tailwind CSS: For styling the tables and components.</li>
+
+<li>React Hot Toast: For notifications (e.g., table added or deleted).</li>
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/AymaanPathan/MERN_TASK_3_Aymaan_Pathan-.git
+   ````
+
+
+
+2. Install dependencies:
+
+    ```bash
+    npm i vite
+    ```
+
+2. Install Toasting Notification:
+
+    ```bash
+    npm i react-hot-toast
+    ```
+    
+
+4. Run the project:
+    ```bash
+   npm run dev
+    ```
+
+
+<h2>Tech Stack</h2>
+<li>Frontend: React.js</li>
+<li>Styling: Tailwind CSS</li>
+
+
+
