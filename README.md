@@ -24,14 +24,14 @@ Technologies Used
 
 <li>Tailwind CSS: For styling the tables and components.</li>
 
-<li>React Hot Toast: For notifications (e.g., table added or deleted).</li>
+<li>React Hot Toast: For notifications.</li>
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AymaanPathan/MERN_TASK_3_Aymaan_Pathan-.git
+   git clone https://github.com/AymaanPathan/MERN_TASK_4_Aymaan_Pathan.git
    ````
 
 
