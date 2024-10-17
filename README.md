@@ -6,7 +6,8 @@
 https://mern-task-4-aymaan-pathan.vercel.app/
 
 
-<img width="959" alt="2" src="https://github.com/user-attachments/assets/c3582cd1-cbbc-42b5-9d42-921fd18980fc">
+<img width="959" alt="Screenshot 2024-10-17 133553" src="https://github.com/user-attachments/assets/4b541218-0c12-491c-8ff8-2781733fd79f">
+
 <img width="959" alt="2" src="https://github.com/user-attachments/assets/40971e0c-eff0-48be-bc3e-0232440ece25">
 
 
@@ -32,7 +33,10 @@ State Management: Form data is handled using React's useState hook.</h6>
    git clone https://github.com/AymaanPathan/MERN_TASK_4_Aymaan_Pathan.git
    ````
 
-
+2. Change Directory
+    ```bash
+    cd .\Shared_Component\
+    ````
 
 2. Install dependencies:
 
